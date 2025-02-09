@@ -1,6 +1,8 @@
 # The Virus of Variation & Process Behavior Charts: A Guide for the Perplexed
 Welcome to the official GitHub repository for **The Virus of Variation & Process Behavior Charts: A Guide for the perplexed** [www.brokenquality.com/book](https://www.brokenquality.com/book). Here, you'll find the datasets and code associated with the book organized by chapter. The intent of the repository is to serve as a practical resources for readers interested in furthering their knowledge of variation as it pertains to Python.
 
+![VoVPBCs Cover](https://github.com/user-attachments/assets/178f5de5-6feb-4677-b787-699b7c895ec0)
+
 ## Table of Contents
 
 1. [About the book](#about-the-book)
