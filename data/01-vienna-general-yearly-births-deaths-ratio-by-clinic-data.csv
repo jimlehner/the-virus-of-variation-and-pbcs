@@ -1,4 +1,4 @@
-Clinic,Employee,Year,Births,Deaths,Death-to-Birth Ratio (%),Note
+Clinic,Employee,Year,Births,Deaths,Death-to-Birth Ratio,Note
 1st Clinic,Students & Doctors,1833,3737,197,5.3,Second clinic started
 1st Clinic,Students & Doctors,1834,2657,205,7.7,
 1st Clinic,Students & Doctors,1835,2573,143,5.6,
