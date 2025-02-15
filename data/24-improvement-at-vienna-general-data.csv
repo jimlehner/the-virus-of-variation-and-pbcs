@@ -1,4 +1,4 @@
-Hospital,Clinic,Stage,Year,Births,Deaths,Rate,Notes
+Hospital,Clinic,Stage,Year,Births,Deaths,Death-to-Birth Ratio,Notes
 Vienna General,Both,Before pathological anatomy,1784,284,6,2.1,No pathological anatomy
 Vienna General,Both,Before pathological anatomy,1785,899,13,1.4,
 Vienna General,Both,Before pathological anatomy,1786,1151,5,0.4,
